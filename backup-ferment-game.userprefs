@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/playeremoji.cs">
+    <Files>
+      <File FileName="Assets/playeremoji.cs" Line="270" Column="57" />
+      <File FileName="Assets/gettingout.cs" Line="4" Column="35" />
+      <File FileName="Assets/MenuBtnScript.cs" Line="9" Column="3" />
+      <File FileName="Assets/winlosefolder/description.cs" Line="10" Column="2" />
+      <File FileName="Assets/movGhost.cs" Line="57" Column="1" />
+      <File FileName="Assets/ExitBtn.cs" Line="13" Column="3" />
+      <File FileName="Assets/PauseToMenu.cs" Line="4" Column="35" />
+      <File FileName="Assets/PauseToContinue.cs" Line="8" Column="2" />
+      <File FileName="Assets/HowToPlay.cs" Line="6" Column="24" />
+      <File FileName="Assets/splash.cs" Line="10" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
