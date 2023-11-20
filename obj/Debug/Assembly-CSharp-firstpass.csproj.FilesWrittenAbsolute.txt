@@ -1,0 +1,115 @@
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEditor.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/nunit.framework.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.Cecil.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/kaungmyatchanthar/Desktop/The tangle/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/Rac/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/Rac/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEditor.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/nunit.framework.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.Cecil.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/sonis/Desktop/Rac/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/ferment/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/ferment/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEditor.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/nunit.framework.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.Cecil.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/sonis/Desktop/ferment/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/backup-ferment-game/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/sonis/Desktop/backup-ferment-game/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEditor.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.UIAutomation.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.TestRunner.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/nunit.framework.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Vuforia.UnityExtensions.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/UnityEngine.Purchasing.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.Cecil.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.DataContract.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/sonis/Desktop/backup-ferment-game/Temp/bin/Debug/Unity.Cecil.Mdb.dll

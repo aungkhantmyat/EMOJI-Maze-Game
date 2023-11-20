@@ -1,0 +1,66 @@
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Facebook.Unity.Settings.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\nunit.framework.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEditor.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.UI.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Mono.Cecil.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Unity.DataContract.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\ExCSS.Unity.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Unity.CecilTools.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEditor.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.UI.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\nunit.framework.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\MY EDU\Unity\the humble\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\MY EDU\Unity\the humble\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+D:\MY EDU\Unity\the humble\obj\Debug\Assembly-CSharp-firstpass.dll
+D:\MY EDU\Unity\the humble\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\nunit.framework.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEditor.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEditor.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\nunit.framework.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\E5-571G\Desktop\24Nov120\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\E5-571G\Desktop\24Nov120\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\E5-571G\Desktop\24Nov120\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\E5-571G\Desktop\24Nov120\obj\Debug\Assembly-CSharp-firstpass.pdb
